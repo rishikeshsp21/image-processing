@@ -1,0 +1,24 @@
+the repository consists of the various functionalities of the opencv library of python.
+the notebooks have the varaious concepts with explanation to some extent and the "output images" folder is what contains the images after applying the vasious concepts in the notebook with changing paramemters
+
+the files are explained below
+black and white.jpg - bitwise and operation on black.jpg and white.jpg
+same format applies to other images having a bitwise operator in it's name.
+black minus white.jpg - subtraction of subtraction of black.jpg from white.jpg
+black or white - bitwise or operation on black.jpg and white.jpg
+black xor white - bitwise xor operation on black.jpg and white.jpg
+canny 1.5 3.jpg- canny edge detection done on giza.jpg with upper:lower ratio 1.5 with 3x3 kernel.
+the above format applies to all the canny images
+Cropped image - result of performing the crop operation on giza.jpg
+laplacin 3 jpg - laplacian edge detection done on giza.jpg with 3x3 kernel
+same format followed for all the laplacian images
+mask.jpg - mask prepared for giza.jpg
+masked image.jpg - the result of applying the mask onto giza.jpg
+not black.jpg - not operation performed on the black.jpg file
+same thing applies to other images starting with "not
+sobel 3xy.jpg - sobel edge detection done on giza.jpg on but axes(x,y) with a 3x3 kernel.
+same format applies to all other images named sobel.
+Warp and rotate 0.jpg - a warp and rotate operation performed as part of affine transformation with 0 degrees angle of rotation
+Same format applies to all other images named warp and rotate.
+weighted sum.jpg - weighted sum performed neb1.jpg and neb2.jpg
+the images not directly or indirectly specified in this list are input images.
