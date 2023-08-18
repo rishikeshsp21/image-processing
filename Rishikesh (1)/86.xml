@@ -1,1 +1,50 @@
-<annotation><folder>Rishikesh</folder><filename>86.jpg</filename><path>D:\Projects\Tata_steel_PPE\image_exraction_script\Data\Rishikesh\86.jpg</path><source><database>Unknown</database></source><size><width>289</width><height>175</height><depth>3</depth></size><segmented>0</segmented><object><name>vest</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>83</xmin><ymin>122</ymin><xmax>157</xmax><ymax>170</ymax></bndbox></object></annotation>
+<annotation>
+	<folder>Rishikesh (1)</folder>
+	<filename>86.jpg</filename>
+	<path>C:\Users\rishi\Documents\image processing\Rishikesh (1)\86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>289</width>
+		<height>175</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>49</ymin>
+			<xmax>245</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>51</ymin>
+			<xmax>254</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>52</ymin>
+			<xmax>262</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>
