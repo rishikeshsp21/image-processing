@@ -1,1 +1,62 @@
-<annotation><folder>Rishikesh</folder><filename>59.jpg</filename><path>D:\Projects\Tata_steel_PPE\image_exraction_script\Data\Rishikesh\59.jpg</path><source><database>Unknown</database></source><size><width>300</width><height>168</height><depth>3</depth></size><segmented>0</segmented><object><name>arm</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>82</xmin><ymin>44</ymin><xmax>150</xmax><ymax>114</ymax></bndbox></object><object><name>human</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>36</xmin><ymin>6</ymin><xmax>153</xmax><ymax>163</ymax></bndbox></object><object><name>vest</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>60</xmin><ymin>60</ymin><xmax>112</xmax><ymax>142</ymax></bndbox></object><object><name>glove</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>64</xmin><ymin>64</ymin><xmax>102</xmax><ymax>103</ymax></bndbox></object><object><name>arm</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>27</xmin><ymin>37</ymin><xmax>92</xmax><ymax>128</ymax></bndbox></object></annotation>
+<annotation>
+	<folder>Rishikesh (1)</folder>
+	<filename>59.jpg</filename>
+	<path>C:\Users\Rishikeshs\image-processing\Rishikesh (1)\59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>48</ymin>
+			<xmax>147</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>6</ymin>
+			<xmax>153</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>arm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>81</ymin>
+			<xmax>61</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>novest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>102</ymin>
+			<xmax>104</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

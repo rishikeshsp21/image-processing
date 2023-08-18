@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Rishikesh (1)</folder>
 	<filename>10.jpg</filename>
-	<path>C:\Users\rishi\Documents\image processing\Rishikesh (1)\10.jpg</path>
+	<path>C:\Users\Rishikeshs\image-processing\Rishikesh (1)\10.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -840,18 +840,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>nogoggle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>261</xmin>
-			<ymin>52</ymin>
-			<xmax>276</xmax>
-			<ymax>60</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>leg</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -1037,10 +1025,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>251</xmin>
+			<xmin>252</xmin>
 			<ymin>70</ymin>
-			<xmax>283</xmax>
-			<ymax>91</ymax>
+			<xmax>287</xmax>
+			<ymax>120</ymax>
 		</bndbox>
 	</object>
 	<object>

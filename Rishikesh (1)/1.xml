@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Rishikesh (1)</folder>
 	<filename>1.jpg</filename>
-	<path>C:\Users\rishi\Documents\image processing\Rishikesh (1)\1.jpg</path>
+	<path>C:\Users\Rishikeshs\image-processing\Rishikesh (1)\1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>human</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>20</xmin>
-			<ymin>56</ymin>
-			<xmax>119</xmax>
-			<ymax>183</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>helmet</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>35</xmin>
-			<ymin>56</ymin>
-			<xmax>72</xmax>
-			<ymax>75</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>noglove</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>99</xmin>
-			<ymin>124</ymin>
-			<xmax>121</xmax>
-			<ymax>146</ymax>
+			<xmin>34</xmin>
+			<ymin>54</ymin>
+			<xmax>80</xmax>
+			<ymax>91</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -54,9 +30,21 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>65</xmin>
-			<ymin>170</ymin>
-			<xmax>100</xmax>
+			<ymin>169</ymin>
+			<xmax>101</xmax>
 			<ymax>186</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>noglove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>123</ymin>
+			<xmax>119</xmax>
+			<ymax>147</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,22 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>40</xmin>
-			<ymin>88</ymin>
-			<xmax>113</xmax>
+			<xmin>48</xmin>
+			<ymin>94</ymin>
+			<xmax>117</xmax>
 			<ymax>144</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>novest</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>30</xmin>
-			<ymin>98</ymin>
-			<xmax>61</xmax>
-			<ymax>168</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +65,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>59</xmin>
+			<xmin>58</xmin>
 			<ymin>131</ymin>
-			<xmax>104</xmax>
-			<ymax>182</ymax>
+			<xmax>101</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>novest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>95</ymin>
+			<xmax>60</xmax>
+			<ymax>159</ymax>
 		</bndbox>
 	</object>
 </annotation>

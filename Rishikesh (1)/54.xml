@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Rishikesh (1)</folder>
+	<filename>54.jpg</filename>
+	<path>C:\Users\Rishikeshs\image-processing\Rishikesh (1)\54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>298</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>85</ymin>
+			<xmax>59</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>human</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>95</ymin>
+			<xmax>218</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>
