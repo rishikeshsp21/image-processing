@@ -1,1 +1,14 @@
-<annotation><folder>filterredpart</folder><filename>cK_Batch01_Dash_20230420__000000017100.jpg</filename><path>C:\Users\AdityaKakkar\OneDrive - Tata Insights and Quants\Documents\annotations\taggingProject\fireAndSmokeVideos2\filterredpart\cK_Batch01_Dash_20230420__000000017100.jpg</path><source><database>Unknown</database></source><size><width>1280</width><height>720</height><depth>3</depth></size><segmented>0</segmented><object><name>smoke</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1080</xmin><ymin>124</ymin><xmax>1223</xmax><ymax>218</ymax></bndbox></object><object><name>fire</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1249</xmin><ymin>214</ymin><xmax>1269</xmax><ymax>228</ymax></bndbox></object></annotation>
+<annotation>
+	<folder>rishi18082023_part2_150</folder>
+	<filename>cK_Batch01_Dash_20230420__000000017100.jpg</filename>
+	<path>C:\Users\rishi\Documents\image processing\rishi18082023_part2_150\cK_Batch01_Dash_20230420__000000017100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
