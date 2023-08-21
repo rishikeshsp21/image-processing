@@ -1,7 +1,7 @@
 <annotation>
 	<folder>rishi18082023_part2_150</folder>
 	<filename>cK_Batch01_Dash_20230420__000000015540.jpg</filename>
-	<path>C:\Users\rishi\Documents\image processing\rishi18082023_part2_150\cK_Batch01_Dash_20230420__000000015540.jpg</path>
+	<path>C:\Users\Rishikeshs\image-processing\rishi18082023_part2_150\cK_Batch01_Dash_20230420__000000015540.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>smoke</name>
+		<name>fire</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>174</xmin>
-			<ymin>1</ymin>
-			<xmax>325</xmax>
-			<ymax>148</ymax>
+			<xmin>16</xmin>
+			<ymin>187</ymin>
+			<xmax>88</xmax>
+			<ymax>230</ymax>
 		</bndbox>
 	</object>
 </annotation>
