@@ -4,3 +4,4 @@ https://www.youtube.com/watch?v=3eCKfBkSUMU
 https://www.youtube.com/watch?v=BpG5HaCK4yQ
 https://www.youtube.com/watch?v=BQDHxAwk9Js
 https://www.youtube.com/watch?v=Dhxf5mm7g1g
+install cv2 version 4.8.0
